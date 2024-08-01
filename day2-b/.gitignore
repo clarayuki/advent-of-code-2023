@@ -1,0 +1,21 @@
+# Build output
+/target/
+
+# Dependency directories
+/cargo-lock
+/cargo.toml.orig
+
+# IDE/editor directories
+/.idea/
+/.vscode/
+/*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
